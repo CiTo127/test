@@ -1,3 +1,5 @@
 Cindy Tomme
 Digitale werkomgeving 1
 Avondprogramma
+
+Bug gefixed
